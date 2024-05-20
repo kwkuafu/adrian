@@ -294,3 +294,26 @@ TVB娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 大爱,http://888.iptv543.com/Smartv.php?id=daai_twn
 公视,http://888.iptv543.com/Smartv.php?id=ctv_taiwan
 TVBS新闻台,http://888.iptv543.com/Smartv.php?id=tvbs_n
+日本,#genre#
+Animation;Kids
+Pokemon Kids TV English,https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
+Pokemon Kids TV Japanese,https://ythls.armelin.one/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
+News
+HBC Hokkaido News 24,https://ythls.armelin.one/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
+HTB Hokkaido News 24,https://ythls.armelin.one/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
+JapaNews24,https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+KBC News Live 24,https://ythls.armelin.one/channel/UCS8ZQejq2CL-nZcnRWZCA5Q.m3u8
+Metele News Live 24,https://ythls.armelin.one/channel/UCWnOKASPkCBEL-_O8odMvtg.m3u8
+RKB NEWS 24,https://ythls.armelin.one/channel/UCgrmHAblzN-QzMMgl2oNRog.m3u8
+SATV News 24H,https://ythls.armelin.one/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
+Asahi Shimbun Digital,https://ythls.armelin.one/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
+Chukyo TV News,https://ythls.armelin.one/channel/UCxiRdfyH0FtFCRZTRfRsdsA.m3u8
+HOME Hiroshima News,https://ythls.armelin.one/channel/UCRnFGOp_mjaCYEhMzsE2iHA.m3u8
+Hokkaido News UHB,https://ythls.armelin.one/channel/UCpQs_warGhUzJhBdwLfF34g.m3u8
+Iwate Menkoi Television,https://ythls.armelin.one/channel/UCw14eNQAUDqCg-fX3Uvd07w.m3u8
+MBS News,https://ythls.armelin.one/channel/UCkKJhKO73xF1pK5h9R82ZGQ.m3u8
+Niigata News NST,https://ythls.armelin.one/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8
+STV News Hokkaido,https://ythls.armelin.one/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8
+TOS News,https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
+TV Shizuoka,https://ythls.armelin.one/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
+
