@@ -841,4 +841,26 @@ XXX
 Miami TV Mexico,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 Playboy TV Latin America HD,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
+台湾,#genre#
+Good 2,https://live.streamingfast.net/osmflivech2.m3u8
+Beautiful Life TV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+Good TV,https://live.streamingfast.net/osmflivech1.m3u8
+SET Metro,http://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042191~exp=9007200918783182~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=957e95920f87270a35afde9e5bd3d25c96af4c19596f0f2cc44ff968b89165c1
+SET Taiwan,http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042391~exp=9007200918783382~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=29538a1877a3c3728afe61bcd55b5a7b98f517bb3e2c75f8433b9338fda5b3e3
+Supreme Master TV,https://lbs-us1.suprememastertv.com/720p.m3u8
+TVBS-Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+Entertainment
+Genius Go Go Go,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+General
+DaAi 1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+DaAi 2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+Dali TV,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+Kids
+EBC YOYO,https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
+News
+FTV News,https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
+SET iNews,https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
+TTV News,https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
+mnews,https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
+
 
