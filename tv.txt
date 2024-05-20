@@ -68,6 +68,7 @@ CCTV16,http://222.241.154.37:9901/tsfile/live/23016_1.m3u8?key=txiptv&playlive=1
 CCTV17,http://223.151.51.74:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://124.228.160.211:9901/tsfile/live/0019_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://222.241.154.37:9901/tsfile/live/23017_1.m3u8?key=txiptv&playlive=1&authid=0
+
 卫视频道,#genre#
 上海卫视,http://223.151.51.74:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 上海卫视,http://124.228.160.211:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -158,6 +159,7 @@ CCTV17,http://222.241.154.37:9901/tsfile/live/23017_1.m3u8?key=txiptv&playlive=1
 黑龙江卫视,http://124.228.160.211:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://222.241.154.37:9901/tsfile/live/23045_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://223.159.10.211:8099/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+
 湖南频道,#genre#
 湖南公共,http://124.228.160.211:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南公共,http://223.159.10.211:8099/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -241,6 +243,7 @@ Estrella News,https://i.mjh.nz/SamsungTVPlus/USAJ2200020N4.m3u8
 Sony Canal Comedias,https://i.mjh.nz/SamsungTVPlus/USAJ22000057N.m3u8
 凤凰卫视,http://210.210.155.37/uq2663/h/h157/index2.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
 台湾频道,#genre#
 无线新闻台,http://888.iptv543.com/Smartv.php?id=inews_twn
 无线娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
@@ -319,7 +322,6 @@ TOS News,https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
 TV Shizuoka,https://ythls.armelin.one/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
 
 美国,#genre#
-Animation
 Alan Becker TV,https://ythls.armelin.one/channel/UCbKWv2x9t6u8yZoB3KcPtnw.m3u8
 Anime All Day,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b7d3249444e05d09cc49&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=830&terminate=false&userId=
 Naruto,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5da0c85bd2c9c10009370984&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=836&terminate=false&userId=
