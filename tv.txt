@@ -987,3 +987,12 @@ Pax Economy TV,https://ythls.armelin.one/channel/UC6UEuBvk-0rmV4FUu0LDiTw.m3u8
 Science
 YTN Science,https://ythls.armelin.one/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
 
+其他国家,#genre#
+
+4K&8K,#genre#
+Unknown_2,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+Unknown_6,http://159.75.85.63:8654/xx8k50fps.php
+Unknown_8,http://159.75.85.63:5680/d/ad/playad.m3u8
+Unknown_10,http://61.51.141.145:8888/rtp/239.3.1.249:8001
+Unknown_11,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+
