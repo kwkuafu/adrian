@@ -996,3 +996,18 @@ Unknown_8,http://159.75.85.63:5680/d/ad/playad.m3u8
 Unknown_10,http://61.51.141.145:8888/rtp/239.3.1.249:8001
 Unknown_11,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 
+影院,#genre#
+Unknown_1,https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
+Unknown_2,https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
+Unknown_3,http://maomao.kandiantv.cn/douyu1.php?id=4246519
+Unknown_4,https://pull.kktv8.com/livekktv/128600025.flv
+Unknown_5,http://pull.kktv8.com/livekktv/128600025.flv
+Unknown_6,http://maomao.kandiantv.cn/douyu1.php?id=6140589
+Unknown_8,http://182.38.178.100:4000/udp/239.21.1.123:5002
+Unknown_11,http://php.jdshipin.com:8880/bst.php?id=hyyy
+Unknown_15,http://114.241.174.185:8888/rtp/239.3.1.92:4120
+Unknown_17,http://maomao.kandiantv.cn/douyu1.php?id=747764
+Unknown_18,https://pull.kktv8.com/livekktv/99592190.flv
+Unknown_19,https://pull.kktv8.com/livekktv/99592190.flv
+Unknown_20,http://60.164.229.241:4040/udp/239.255.30.194:8231
+Unknown_24,http://www.51romzj.love:35455/huya/21059574
