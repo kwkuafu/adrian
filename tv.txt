@@ -846,12 +846,8 @@ Playboy TV Latin America HD,http://190.11.225.124:5000/live/playboy_hd/playlist.
 Good 2,https://live.streamingfast.net/osmflivech2.m3u8
 Beautiful Life TV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 Good TV,https://live.streamingfast.net/osmflivech1.m3u8
-SET Metro,http://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042191~exp=9007200918783182~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=957e95920f87270a35afde9e5bd3d25c96af4c19596f0f2cc44ff968b89165c1
-SET Taiwan,http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042391~exp=9007200918783382~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=29538a1877a3c3728afe61bcd55b5a7b98f517bb3e2c75f8433b9338fda5b3e3
 Supreme Master TV,https://lbs-us1.suprememastertv.com/720p.m3u8
 TVBS-Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-Entertainment
-Genius Go Go Go,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 General
 DaAi 1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 DaAi 2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
@@ -940,7 +936,7 @@ Visit-X TV (720p),https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 4,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
 
 韩国,#genre#
-General
+
 ABN,https://vod2.abn.co.kr/IPHONE/abn.m3u8
 Arirang Radio,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 HLQS-DTV,https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
@@ -975,11 +971,7 @@ Shinsegae TV Shopping,https://liveout.catenoid.net/live-02-shinsegaetvshopping/s
 Shopping NT,https://live.shoppingntmall.com/live/10011.m3u8
 W Shopping,https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
 Education
-EBS English,https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-EBS Plus 2,https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 YTN2,https://ythls.armelin.one/channel/UCDww6ExpwQS0TzmREIOo40Q.m3u8
-Kids
-EBS Kids,https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 Legislative
 KTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 Business
@@ -994,7 +986,6 @@ YTN Science,https://ythls.armelin.one/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
 Unknown_2,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 Unknown_6,http://159.75.85.63:8654/xx8k50fps.php
 Unknown_8,http://159.75.85.63:5680/d/ad/playad.m3u8
-Unknown_10,http://61.51.141.145:8888/rtp/239.3.1.249:8001
 Unknown_11,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 
 影院,#genre#
