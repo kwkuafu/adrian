@@ -1,582 +1,178 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV1
-http://223.151.51.74:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV1
-http://124.228.160.211:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV1
+#EXTINF:-1 group-title="央视频道",CCTV1
 http://222.241.154.37:9901/tsfile/live/23001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV1
-http://223.159.10.211:8099/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV2
-http://223.151.51.74:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV2
-http://124.228.160.211:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV2
+#EXTINF:-1 group-title="央视频道",CCTV2
 http://222.241.154.37:9901/tsfile/live/23002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV2
-http://223.159.10.211:8099/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV3
-http://223.151.51.74:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV3
-http://124.228.160.211:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV3
+#EXTINF:-1 group-title="央视频道",CCTV3
 http://222.241.154.37:9901/tsfile/live/23003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV3
-http://223.159.10.211:8099/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV4
-http://223.151.51.74:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV4
-http://124.228.160.211:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV4
+#EXTINF:-1 group-title="央视频道",CCTV4
 http://222.241.154.37:9901/tsfile/live/23004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV4
-http://223.159.10.211:8099/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV5
-http://223.151.51.74:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV5
-http://124.228.160.211:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV5
+#EXTINF:-1 group-title="央视频道",CCTV5
 http://222.241.154.37:9901/tsfile/live/23005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV5
-http://223.159.10.211:8099/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV5+
-http://124.228.160.211:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV5+
-http://113.218.218.5:8001/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV5+
+#EXTINF:-1 group-title="央视频道",CCTV5+
 http://222.241.154.37:9901/tsfile/live/23018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV6
-http://223.151.51.74:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV6
-http://124.228.160.211:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV6
+#EXTINF:-1 group-title="央视频道",CCTV6
 http://222.241.154.37:9901/tsfile/live/23006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV6
-http://223.159.10.211:8099/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV7
-http://223.151.51.74:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV7
-http://124.228.160.211:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV7
+#EXTINF:-1 group-title="央视频道",CCTV7
 http://222.241.154.37:9901/tsfile/live/23007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV7
-http://223.159.10.211:8099/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV8
-http://223.151.51.74:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV8
-http://124.228.160.211:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV8
+#EXTINF:-1 group-title="央视频道",CCTV8
 http://222.241.154.37:9901/tsfile/live/23008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV8
-http://223.159.10.211:8099/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV9
-http://223.151.51.74:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV9
-http://124.228.160.211:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV9
+#EXTINF:-1 group-title="央视频道",CCTV9
 http://222.241.154.37:9901/tsfile/live/23009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV9
-http://223.159.10.211:8099/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV10
-http://223.151.51.74:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV10
-http://124.228.160.211:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV10
+#EXTINF:-1 group-title="央视频道",CCTV10
 http://222.241.154.37:9901/tsfile/live/23010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV10
-http://223.159.10.211:8099/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV11
-http://223.151.51.74:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV11
-http://124.228.160.211:9901/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV11
-http://113.218.218.5:8001/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV11
+#EXTINF:-1 group-title="央视频道",CCTV11
 http://222.241.154.37:9901/tsfile/live/23011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV11
-http://223.159.10.211:8099/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV12
-http://223.151.51.74:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV12
-http://124.228.160.211:9901/tsfile/live/0012_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV12
-http://113.218.218.5:8001/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV12
+#EXTINF:-1 group-title="央视频道",CCTV12
 http://222.241.154.37:9901/tsfile/live/23012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV12
-http://223.159.10.211:8099/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV13
-http://124.228.160.211:9901/tsfile/live/0013_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV13
-http://113.218.218.5:8001/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV13
+#EXTINF:-1 group-title="央视频道",CCTV13
 http://222.241.154.37:9901/tsfile/live/23013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV13
-http://223.159.10.211:8099/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV14
-http://124.228.160.211:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV14
-http://113.218.218.5:8001/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV14
+#EXTINF:-1 group-title="央视频道",CCTV14
 http://222.241.154.37:9901/tsfile/live/23014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV14
-http://223.159.10.211:8099/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV15
-http://223.151.51.74:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV15
-http://124.228.160.211:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV15
+#EXTINF:-1 group-title="央视频道",CCTV15
 http://222.241.154.37:9901/tsfile/live/23015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV15
-http://223.159.10.211:8099/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV16
+#EXTINF:-1 group-title="央视频道",CCTV16
 http://222.241.154.37:9901/tsfile/live/23016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV17
+#EXTINF:-1 group-title="央视频道",CCTV17
 http://223.151.51.74:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV17
-http://124.228.160.211:9901/tsfile/live/0019_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道,#genre#",CCTV17
+#EXTINF:-1 group-title="央视频道",CCTV17
 http://222.241.154.37:9901/tsfile/live/23017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",上海卫视
-http://223.151.51.74:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",上海卫视
-http://124.228.160.211:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",上海卫视
-http://222.241.154.37:9901/tsfile/live/23033_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",上海卫视
-http://223.159.10.211:8099/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",东南卫视
-http://124.228.160.211:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",东南卫视
-http://222.241.154.37:9901/tsfile/live/23037_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",东南卫视
-http://223.159.10.211:8099/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",云南卫视
-http://124.228.160.211:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",云南卫视
-http://222.241.154.37:9901/tsfile/live/23043_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",云南卫视
-http://223.159.10.211:8099/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",北京卫视
-http://223.151.51.74:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",北京卫视
-http://124.228.160.211:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",北京卫视
-http://222.241.154.37:9901/tsfile/live/23030_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",北京卫视
-http://223.159.10.211:8099/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",吉林卫视
-http://124.228.160.211:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",吉林卫视
-http://223.159.10.211:8099/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",四川卫视
-http://124.228.160.211:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",四川卫视
-http://222.241.154.37:9901/tsfile/live/23041_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",四川卫视
-http://223.159.10.211:8099/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",天津卫视
-http://223.151.51.74:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",天津卫视
-http://222.241.154.37:9901/tsfile/live/23032_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",天津卫视
-http://223.159.10.211:8099/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",安徽卫视
-http://223.151.51.74:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",安徽卫视
-http://124.228.160.211:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",安徽卫视
-http://222.241.154.37:9901/tsfile/live/23031_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",安徽卫视
-http://223.159.10.211:8099/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",山东卫视
-http://124.228.160.211:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",山东卫视
-http://222.241.154.37:9901/tsfile/live/23040_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",山东卫视
-http://223.159.10.211:8099/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",山西卫视
-http://124.228.160.211:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",山西卫视
-http://223.159.10.211:8099/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",广东卫视
-http://223.151.51.74:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",广东卫视
-http://124.228.160.211:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",广东卫视
-http://222.241.154.37:9901/tsfile/live/23038_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",广东卫视
-http://223.159.10.211:8099/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",广西卫视
-http://223.151.51.74:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",广西卫视
-http://124.228.160.211:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",广西卫视
-http://222.241.154.37:9901/tsfile/live/23039_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",广西卫视
-http://223.159.10.211:8099/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",江苏卫视
-http://223.151.51.74:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",江苏卫视
-http://124.228.160.211:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",江苏卫视
-http://222.241.154.37:9901/tsfile/live/23029_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",江苏卫视
-http://223.159.10.211:8099/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",江西卫视
-http://223.151.51.74:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",江西卫视
-http://124.228.160.211:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",江西卫视
-http://222.241.154.37:9901/tsfile/live/23034_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",江西卫视
-http://223.159.10.211:8099/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",河北卫视
-http://124.228.160.211:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",河北卫视
-http://222.241.154.37:9901/tsfile/live/23047_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",河北卫视
-http://223.159.10.211:8099/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",河南卫视
-http://124.228.160.211:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",河南卫视
-http://222.241.154.37:9901/tsfile/live/23044_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",河南卫视
-http://223.159.10.211:8099/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",浙江卫视
-http://223.151.51.74:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",浙江卫视
-http://124.228.160.211:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",浙江卫视
-http://222.241.154.37:9901/tsfile/live/23028_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",浙江卫视
-http://223.159.10.211:8099/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",海南卫视
-http://124.228.160.211:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",深圳卫视
-http://223.151.51.74:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",深圳卫视
-http://124.228.160.211:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",深圳卫视
-http://222.241.154.37:9901/tsfile/live/23035_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",深圳卫视
-http://223.159.10.211:8099/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",湖北卫视
-http://223.151.51.74:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",湖北卫视
-http://124.228.160.211:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",湖北卫视
-http://223.159.10.211:8099/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",湖南卫视
-http://223.151.51.74:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",湖南卫视
-http://124.228.160.211:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",湖南卫视
-http://113.218.218.5:8001/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",湖南卫视
-http://222.241.154.37:9901/tsfile/live/23019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",湖南卫视
-http://223.159.10.211:8099/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",贵州卫视
-http://223.151.51.74:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",贵州卫视
-http://124.228.160.211:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",贵州卫视
-http://222.241.154.37:9901/tsfile/live/23046_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",贵州卫视
-http://223.159.10.211:8099/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",辽宁卫视
-http://124.228.160.211:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",辽宁卫视
-http://222.241.154.37:9901/tsfile/live/23036_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",辽宁卫视
-http://223.159.10.211:8099/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",重庆卫视
-http://124.228.160.211:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",重庆卫视
-http://222.241.154.37:9901/tsfile/live/23042_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",重庆卫视
-http://223.159.10.211:8099/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",陕西卫视
-http://223.151.51.74:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",陕西卫视
-http://124.228.160.211:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",陕西卫视
-http://222.241.154.37:9901/tsfile/live/23048_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",陕西卫视
-http://223.159.10.211:8099/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",青海卫视
-http://223.159.10.211:8099/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",黑龙江卫视
-http://223.151.51.74:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",黑龙江卫视
-http://124.228.160.211:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",黑龙江卫视
-http://222.241.154.37:9901/tsfile/live/23045_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道,#genre#",黑龙江卫视
-http://223.159.10.211:8099/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南公共
-http://124.228.160.211:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南公共
-http://223.159.10.211:8099/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南卫视
-http://223.151.51.74:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南卫视
-http://124.228.160.211:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南卫视
-http://113.218.218.5:8001/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南卫视
-http://222.241.154.37:9901/tsfile/live/23019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南卫视
-http://223.159.10.211:8099/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南国际
-http://222.241.154.37:9901/tsfile/live/23024_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南国际
-http://223.159.10.211:8099/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南娱乐
-http://124.228.160.211:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南娱乐
-http://222.241.154.37:9901/tsfile/live/23023_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南娱乐
-http://223.159.10.211:8099/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南教育
-http://223.159.10.211:8099/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南教育台
-http://222.241.154.37:9901/tsfile/live/23027_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南爱晚
-http://222.241.154.37:9901/tsfile/live/23022_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南电影
-http://124.228.160.211:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南电影
-http://222.241.154.37:9901/tsfile/live/23025_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南电影
-http://223.159.10.211:8099/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南电视剧
-http://124.228.160.211:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南电视剧
-http://222.241.154.37:9901/tsfile/live/23026_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南电视剧
-http://223.159.10.211:8099/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南经视
-http://124.228.160.211:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南经视
-http://222.241.154.37:9901/tsfile/live/23020_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南经视
-http://223.159.10.211:8099/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南都市
-http://124.228.160.211:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南都市
-http://113.218.218.5:8001/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南都市
-http://222.241.154.37:9901/tsfile/live/23021_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",湖南都市
-http://223.159.10.211:8099/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",金鹰卡通
-http://124.228.160.211:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",金鹰卡通
-http://223.159.10.211:8099/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",金鹰纪实
-http://124.228.160.211:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="湖南频道,#genre#",金鹰纪实
-http://223.159.10.211:8099/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="港澳频道,#genre#",凤凰资讯
+#EXTINF:-1 group-title="港澳频道",凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 group-title="港澳频道,#genre#",凤凰资讯
-http://ytb.csscc.cc:2086/live.m3u8?c=1
-#EXTINF:-1 group-title="港澳频道,#genre#",凤凰资讯
+#EXTINF:-1 group-title="港澳频道",凤凰资讯
 http://dms.yryyj.site:8188/udp/239.76.246.134:1234
-#EXTINF:-1 group-title="港澳频道,#genre#",凤凰资讯
+#EXTINF:-1 group-title="港澳频道",凤凰资讯
 http://dms.yryyj.site:8188/udp/239.76.253.134:9000
-#EXTINF:-1 group-title="港澳频道,#genre#",凤凰卫视
+#EXTINF:-1 group-title="港澳频道",凤凰卫视
 http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012
-#EXTINF:-1 group-title="港澳频道,#genre#",凤凰资讯
+#EXTINF:-1 group-title="港澳频道",凤凰资讯
 http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708
-#EXTINF:-1 group-title="港澳频道,#genre#",凤凰资讯
+#EXTINF:-1 group-title="港澳频道",凤凰资讯
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 group-title="港澳频道,#genre#",凤凰资讯
+#EXTINF:-1 group-title="港澳频道",凤凰资讯
 http://113.64.145.195:8081/hls/36/index.m3u8
-#EXTINF:-1 group-title="港澳频道,#genre#",凤凰资讯
+#EXTINF:-1 group-title="港澳频道",凤凰资讯
 http://171.223.215.229:4000/udp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳频道,#genre#",凤凰资讯
+#EXTINF:-1 group-title="港澳频道",凤凰资讯
 http://120.41.124.228:8888/rtp/239.61.2.183:9086
-#EXTINF:-1 group-title="港澳频道,#genre#",凤凰资讯
+#EXTINF:-1 group-title="港澳频道",凤凰资讯
 http://www.yao87.com:4022/udp/239.76.246.135:1234
-#EXTINF:-1 group-title="港澳频道,#genre#",凤凰资讯
+#EXTINF:-1 group-title="港澳频道",凤凰资讯
 http://vl15191373.imwork.net:8880/udp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳频道,#genre#",凤凰资讯
+#EXTINF:-1 group-title="港澳频道",凤凰资讯
 http://112.19.171.156:9999/udp/239.93.0.118:2191
-#EXTINF:-1 group-title="港澳频道,#genre#",HOY77
+#EXTINF:-1 group-title="港澳频道",HOY77
 http://111.230.195.119:80/香蕉哥/hoy77/hls.m3u8
-#EXTINF:-1 group-title="港澳频道,#genre#",HOY78
+#EXTINF:-1 group-title="港澳频道",HOY78
 http://111.230.195.119:80/香蕉哥/hoy78/hls.m3u8
-#EXTINF:-1 group-title="港澳频道,#genre#",TVB翡翠
+#EXTINF:-1 group-title="港澳频道",TVB翡翠
 http://111.230.195.119:80/香蕉哥/tvb/hls.m3u8
-#EXTINF:-1 group-title="港澳频道,#genre#",HOY 國際財經台
+#EXTINF:-1 group-title="港澳频道",HOY 國際財經台
 http://123.202.245.120:8009/bysid/76
-#EXTINF:-1 group-title="港澳频道,#genre#",HOY TV
+#EXTINF:-1 group-title="港澳频道",HOY TV
 http://123.202.245.120:8009/bysid/77
-#EXTINF:-1 group-title="港澳频道,#genre#",HOY 資訊台
+#EXTINF:-1 group-title="港澳频道",HOY 資訊台
 http://123.202.245.120:8009/bysid/78
-#EXTINF:-1 group-title="港澳频道,#genre#",J2
-http://888.iptv543.com/Smartv.php?id=j2_twn
-#EXTINF:-1 group-title="港澳频道,#genre#",无线新闻台
-http://888.iptv543.com/Smartv.php?id=inews_twn
-#EXTINF:-1 group-title="港澳频道,#genre#",VIUTV
-http://888.iptv543.com/Smartv.php?id=viu1_twn
-#EXTINF:-1 group-title="港澳频道,#genre#",TVB星河
-http://888.iptv543.com/Smartv.php?id=Xinhe
-#EXTINF:-1 group-title="港澳频道,#genre#",TVB星河台
+#EXTINF:-1 group-title="港澳频道",TVB星河台
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 group-title="港澳频道,#genre#",无线娱乐新闻台
+#EXTINF:-1 group-title="港澳频道",无线娱乐新闻台
 https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
-#EXTINF:-1 group-title="港澳频道,#genre#",无线新闻
+#EXTINF:-1 group-title="港澳频道",无线新闻
 http://137.175.30.127:9080/hls/inews.m3u8
-#EXTINF:-1 group-title="港澳频道,#genre#",TVB星河台
+#EXTINF:-1 group-title="港澳频道",TVB星河台
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 group-title="港澳频道,#genre#",TVB星河台
+#EXTINF:-1 group-title="港澳频道",TVB星河台
 http://113.64.145.195:8081/hls/135/index.m3u8
-#EXTINF:-1 group-title="港澳频道,#genre#",TVB翡翠台
-http://158.180.67.130/live/hls/J/j.m3u8
-#EXTINF:-1 group-title="港澳频道,#genre#",TVB翡翠台 4K
-http://158.180.67.130/live/hls/JUHD/juhd.m3u8
-#EXTINF:-1 group-title="港澳频道,#genre#",TVB翡翠台 4K
+#EXTINF:-1 group-title="港澳频道",TVB翡翠台 4K
 http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
-#EXTINF:-1 group-title="港澳频道,#genre#",香港卫视
+#EXTINF:-1 group-title="港澳频道",香港卫视
 http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
-#EXTINF:-1 group-title="港澳频道,#genre#",香港34台全网
+#EXTINF:-1 group-title="港澳频道",香港34台全网
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-#EXTINF:-1 group-title="港澳频道,#genre#",港台RTHK33HD
+#EXTINF:-1 group-title="港澳频道",港台RTHK33HD
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-#EXTINF:-1 group-title="港澳频道,#genre#",港台RTHK34HD
+#EXTINF:-1 group-title="港澳频道",港台RTHK34HD
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-#EXTINF:-1 group-title="港澳频道,#genre#",凤凰资讯
+#EXTINF:-1 group-title="港澳频道",凤凰资讯
 http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 group-title="港澳频道,#genre#",凤凰资讯HD
+#EXTINF:-1 group-title="港澳频道",凤凰资讯HD
 http://william8073.eu.org:9000/live.m3u8?c=19
-#EXTINF:-1 group-title="港澳频道,#genre#",天映频道
-http://888.iptv543.com/Smartv.php?id=Celestial
-#EXTINF:-1 group-title="港澳频道,#genre#",NBC News Now
+#EXTINF:-1 group-title="港澳频道",NBC News Now
 https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
-#EXTINF:-1 group-title="港澳频道,#genre#",The Guardian
+#EXTINF:-1 group-title="港澳频道",The Guardian
 https://i.mjh.nz/SamsungTVPlus/GBAJ2400003DD.m3u8
-#EXTINF:-1 group-title="港澳频道,#genre#",MHz Now
+#EXTINF:-1 group-title="港澳频道",MHz Now
 https://i.mjh.nz/SamsungTVPlus/USAJ22000130U.m3u8
-#EXTINF:-1 group-title="港澳频道,#genre#",fubo Sports Network
+#EXTINF:-1 group-title="港澳频道",fubo Sports Network
 https://i.mjh.nz/SamsungTVPlus/USAJ2200023Z0.m3u8
-#EXTINF:-1 group-title="港澳频道,#genre#",Hungry
+#EXTINF:-1 group-title="港澳频道",Hungry
 https://i.mjh.nz/SamsungTVPlus/USAJ2200009C2.m3u8
-#EXTINF:-1 group-title="港澳频道,#genre#",Estrella News
+#EXTINF:-1 group-title="港澳频道",Estrella News
 https://i.mjh.nz/SamsungTVPlus/USAJ2200020N4.m3u8
-#EXTINF:-1 group-title="港澳频道,#genre#",Sony Canal Comedias
+#EXTINF:-1 group-title="港澳频道",Sony Canal Comedias
 https://i.mjh.nz/SamsungTVPlus/USAJ22000057N.m3u8
-#EXTINF:-1 group-title="港澳频道,#genre#",凤凰卫视
-http://210.210.155.37/uq2663/h/h157/index2.m3u8
-#EXTINF:-1 group-title="港澳频道,#genre#",香港卫视
+#EXTINF:-1 group-title="港澳频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道,#genre#",无线新闻台
-http://888.iptv543.com/Smartv.php?id=inews_twn
-#EXTINF:-1 group-title="台湾频道,#genre#",无线娱乐新闻台
+#EXTINF:-1 group-title="台湾频道",无线娱乐新闻台
 https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道,#genre#",TVB娱乐新闻台
+#EXTINF:-1 group-title="台湾频道",TVB娱乐新闻台
 http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道,#genre#",三立戏剧
+#EXTINF:-1 group-title="台湾频道",三立戏剧
 http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 group-title="台湾频道,#genre#",三立戲劇台
+#EXTINF:-1 group-title="台湾频道",三立戲劇台
 http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 group-title="台湾频道,#genre#",三立新聞
-http://ytb.csscc.cc:2086/live.m3u8?c=3
-#EXTINF:-1 group-title="台湾频道,#genre#",三立戏剧
+#EXTINF:-1 group-title="台湾频道",三立戏剧
 http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 group-title="台湾频道,#genre#",中视新闻
+#EXTINF:-1 group-title="台湾频道",中视新闻
 http://william8073.eu.org:9000/live.m3u8?c=7
-#EXTINF:-1 group-title="台湾频道,#genre#",东森财经新闻HD
+#EXTINF:-1 group-title="台湾频道",东森财经新闻HD
 http://william8073.eu.org:9000/live.m3u8?c=9
-#EXTINF:-1 group-title="台湾频道,#genre#",寰宇新闻台
+#EXTINF:-1 group-title="台湾频道",寰宇新闻台
 http://william8073.eu.org:9000/live.m3u8?c=10
-#EXTINF:-1 group-title="台湾频道,#genre#",台视新闻HD
+#EXTINF:-1 group-title="台湾频道",台视新闻HD
 http://william8073.eu.org:9000/live.m3u8?c=11
-#EXTINF:-1 group-title="台湾频道,#genre#",民视新闻台HD
+#EXTINF:-1 group-title="台湾频道",民视新闻台HD
 http://william8073.eu.org:9000/live.m3u8?c=12
-#EXTINF:-1 group-title="台湾频道,#genre#",三立iNEWS
+#EXTINF:-1 group-title="台湾频道",三立iNEWS
 http://william8073.eu.org:9000/live.m3u8?c=15
-#EXTINF:-1 group-title="台湾频道,#genre#",大爱一台
+#EXTINF:-1 group-title="台湾频道",大爱一台
 http://william8073.eu.org:9000/live.m3u8?c=16
-#EXTINF:-1 group-title="台湾频道,#genre#",大爱二台
+#EXTINF:-1 group-title="台湾频道",大爱二台
 http://william8073.eu.org:9000/live.m3u8?c=17
-#EXTINF:-1 group-title="台湾频道,#genre#",华视新闻资讯
+#EXTINF:-1 group-title="台湾频道",华视新闻资讯
 http://william8073.eu.org:9000/live.m3u8?c=18
-#EXTINF:-1 group-title="台湾频道,#genre#",三立NEWS+
+#EXTINF:-1 group-title="台湾频道",三立NEWS+
 http://william8073.eu.org:9000/live.m3u8?c=22
-#EXTINF:-1 group-title="台湾频道,#genre#",寰宇新闻台湾台
+#EXTINF:-1 group-title="台湾频道",寰宇新闻台湾台
 http://william8073.eu.org:9000/live.m3u8?c=26
-#EXTINF:-1 group-title="台湾频道,#genre#",中视经典综艺
+#EXTINF:-1 group-title="台湾频道",中视经典综艺
 http://william8073.eu.org:9000/live.m3u8?c=28
-#EXTINF:-1 group-title="台湾频道,#genre#",中视台湾志
+#EXTINF:-1 group-title="台湾频道",中视台湾志
 http://william8073.eu.org:9000/live.m3u8?c=29
-#EXTINF:-1 group-title="台湾频道,#genre#",中视大陆寻奇
+#EXTINF:-1 group-title="台湾频道",中视大陆寻奇
 http://william8073.eu.org:9000/live.m3u8?c=37
-#EXTINF:-1 group-title="台湾频道,#genre#",大爱一台
+#EXTINF:-1 group-title="台湾频道",大爱一台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="台湾频道,#genre#",大爱二台
+#EXTINF:-1 group-title="台湾频道",大爱二台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="台湾频道,#genre#",大立电视
+#EXTINF:-1 group-title="台湾频道",大立电视
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 group-title="台湾频道,#genre#",半岛新闻台
+#EXTINF:-1 group-title="台湾频道",半岛新闻台
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="台湾频道,#genre#",东森超视
+#EXTINF:-1 group-title="台湾频道",东森超视
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 group-title="台湾频道,#genre#",东森美洲
+#EXTINF:-1 group-title="台湾频道",东森美洲
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 group-title="台湾频道,#genre#",台视新闻
+#EXTINF:-1 group-title="台湾频道",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 group-title="台湾频道,#genre#",民视新闻
+#EXTINF:-1 group-title="台湾频道",民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 group-title="台湾频道,#genre#",东森美洲2
+#EXTINF:-1 group-title="台湾频道",东森美洲2
 http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-#EXTINF:-1 group-title="台湾频道,#genre#",民视新闻
+#EXTINF:-1 group-title="台湾频道",民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 group-title="台湾频道,#genre#",人間衛視
+#EXTINF:-1 group-title="台湾频道",人間衛視
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道,#genre#",台视新闻
-http://888.iptv543.com/Smartv.php?id=ttvnews_twn
-#EXTINF:-1 group-title="台湾频道,#genre#",中视新闻
-http://888.iptv543.com/Smartv.php?id=ca73a13c37
-#EXTINF:-1 group-title="台湾频道,#genre#",三立综合台
-http://888.iptv543.com/Smartv.php?id=sanlizhonghe
-#EXTINF:-1 group-title="台湾频道,#genre#",三立戏剧
-http://888.iptv543.com/Smartv.php?id=sanlixiju_twn
-#EXTINF:-1 group-title="台湾频道,#genre#",三立台湾台
-http://888.iptv543.com/Smartv.php?id=sanlitaiwan
-#EXTINF:-1 group-title="台湾频道,#genre#",年代新闻
-http://888.iptv543.com/Smartv.php?id=niandainews_twn
-#EXTINF:-1 group-title="台湾频道,#genre#",民视新闻台
-http://888.iptv543.com/Smartv.php?id=ftvnew_taiwan
-#EXTINF:-1 group-title="台湾频道,#genre#",民视台湾台
-http://888.iptv543.com/Smartv.php?id=ftvtaiwan_twn
-#EXTINF:-1 group-title="台湾频道,#genre#",民视第一台
-http://888.iptv543.com/Smartv.php?id=lunghuajingdian_twn
-#EXTINF:-1 group-title="台湾频道,#genre#",民视
-http://888.iptv543.com/Smartv.php?id=ftvhd_taiwan
-#EXTINF:-1 group-title="台湾频道,#genre#",龙祥时代
-http://888.iptv543.com/Smartv.php?id=lungxiangtime_twn
-#EXTINF:-1 group-title="台湾频道,#genre#",龙祥时代
-http://888.iptv543.com/Smartv.php?id=cb7a1fec69
-#EXTINF:-1 group-title="台湾频道,#genre#",寰宇新闻台
-http://888.iptv543.com/Smartv.php?id=huanyuxinwen_twn
-#EXTINF:-1 group-title="台湾频道,#genre#",东森综合台
-http://888.iptv543.com/Smartv.php?id=ettvzhonghe
-#EXTINF:-1 group-title="台湾频道,#genre#",东森洋片
-http://888.iptv543.com/Smartv.php?id=ettvwestern
-#EXTINF:-1 group-title="台湾频道,#genre#",东森超视
-http://888.iptv543.com/Smartv.php?id=ettvsuper
-#EXTINF:-1 group-title="台湾频道,#genre#",东森财经新闻
-http://888.iptv543.com/Smartv.php?id=ettvcaijing_twn
-#EXTINF:-1 group-title="台湾频道,#genre#",大爱
-http://888.iptv543.com/Smartv.php?id=daai_twn
-#EXTINF:-1 group-title="台湾频道,#genre#",公视
-http://888.iptv543.com/Smartv.php?id=ctv_taiwan
-#EXTINF:-1 group-title="台湾频道,#genre#",TVBS新闻台
-http://888.iptv543.com/Smartv.php?id=tvbs_n
 #EXTINF:-1 group-title="Animation;Kids",Pokemon Kids TV English
 https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
 #EXTINF:-1 group-title="Animation;Kids",Pokemon Kids TV Japanese
@@ -615,21 +211,21 @@ https://ythls.armelin.one/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8
 https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
 #EXTINF:-1 group-title="News",TV Shizuoka
 https://ythls.armelin.one/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
-#EXTINF:-1 group-title="Animation",Alan Becker TV
+#EXTINF:-1 group-title="美国",Alan Becker TV
 https://ythls.armelin.one/channel/UCbKWv2x9t6u8yZoB3KcPtnw.m3u8
-#EXTINF:-1 group-title="Animation",Anime All Day
+#EXTINF:-1 group-title="美国",Anime All Day
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b7d3249444e05d09cc49&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=830&terminate=false&userId=
-#EXTINF:-1 group-title="Animation",Naruto
+#EXTINF:-1 group-title="美国",Naruto
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5da0c85bd2c9c10009370984&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=836&terminate=false&userId=
-#EXTINF:-1 group-title="Animation",One Piece
+#EXTINF:-1 group-title="美国",One Piece
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Animation",Pluto TV Anime Accion
+#EXTINF:-1 group-title="美国",Pluto TV Anime Accion
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 group-title="Animation",Pluto TV Anime All Ages
+#EXTINF:-1 group-title="美国",Pluto TV Anime All Ages
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-#EXTINF:-1 group-title="Animation",Toonami Aftermath East
+#EXTINF:-1 group-title="美国",Toonami Aftermath East
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
-#EXTINF:-1 group-title="Animation",Yu-Gi-Oh!
+#EXTINF:-1 group-title="美国",Yu-Gi-Oh!
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="Animation;Kids;Religious",3ABN Kids
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
@@ -725,7 +321,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58d947b9e420d8656e
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492bb931054f00073c0b4e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
 #EXTINF:-1 group-title="Comedy",TV Land Sitcoms
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c2d64ffbdf11b71587184b8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=455&terminate=false&userId=
-#EXTINF:-1 group-title="Cooking",America\'s Test Kitchen
+#EXTINF:-1 group-title="Cooking",America's Test Kitchen
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Cooking",Cooking Panda
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
@@ -743,10 +339,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsung
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cooking",bon appetit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Culture",Midpen Media Center Channel 30
-https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8
-#EXTINF:-1 group-title="Culture",Midpen Media Center Channel 75
-https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8
 #EXTINF:-1 group-title="Culture",BX Arts
 https://reflect-stream-bronxnet.cablecast.tv/live-19/live/live.m3u8
 #EXTINF:-1 group-title="Culture",BX Culture
@@ -761,8 +353,6 @@ https://us1.ottstream.live:17071/C279/index.m3u8?token=123TREWQ456
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176f39e709f160007ec61c3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 group-title="Documentary",AXS TV NOW
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title="Documentary",Forensic Files
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bb1af6a268cae539bcedb0a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=370&terminate=false&userId=
 #EXTINF:-1 group-title="Documentary",Law & Crime
 https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
 #EXTINF:-1 group-title="Documentary",MagellanTV
@@ -787,8 +377,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 #EXTINF:-1 group-title="Education",KOCT Channel 19
 https://securestream6.champds.com/hlssstc/KOCTCALIVE2/KOCTCALIVE2.m3u8
-#EXTINF:-1 group-title="Education",Midpen Media Center Channel 28
-https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
 #EXTINF:-1 group-title="Education",LA36
 https://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 group-title="Education",Cloudflare TV
@@ -839,7 +427,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54187aae660e0009
 https://d76toswjmqqzm.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Hi-YAH!
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",It\'s Showtime at the Apollo
+#EXTINF:-1 group-title="Entertainment",It's Showtime at the Apollo
 https://dai.google.com/linear/hls/event/fAFfTnCAT2K8d83sYsA-cw/master.m3u8
 #EXTINF:-1 group-title="Entertainment",Logo Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ce5a8954311f992edbe1da2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=187&terminate=false&userId=
@@ -1011,8 +599,6 @@ https://reflect-thornton.cablecast.tv/live-4/live/live.m3u8
 https://lin10.isilive.ca/live/gainesville/live/index.m3u8
 #EXTINF:-1 group-title="Legislative",Morro Bay Channel 20
 https://agp-nimble.streamguys1.com/MBCh20/MBCh20/playlist.m3u8
-#EXTINF:-1 group-title="Legislative",Midpen Media Center Channel 29
-https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
 #EXTINF:-1 group-title="Legislative",LA CityView 35
 https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 group-title="Legislative",Yuma77
@@ -1075,8 +661,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d180092e97a5e107638d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=913&terminate=false&userId=
 #EXTINF:-1 group-title="Movies",Crackle
 https://crackle-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies",DUST
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Drama Life
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 #EXTINF:-1 group-title="Movies",Film Hub
@@ -1159,11 +743,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 #EXTINF:-1 group-title="Music",30A Music
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
-#EXTINF:-1 group-title="Music",Vevo \'70s
+#EXTINF:-1 group-title="Music",Vevo '70s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Music",Vevo \'80s
+#EXTINF:-1 group-title="Music",Vevo '80s
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Music",Vevo \'90s
+#EXTINF:-1 group-title="Music",Vevo '90s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="Music",Baeble Music
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8
@@ -1203,7 +787,7 @@ https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="News",Alhurra Iraq
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
-#EXTINF:-1 group-title="News",America\'s Voice
+#EXTINF:-1 group-title="News",America's Voice
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 #EXTINF:-1 group-title="News",Black News Channel
 https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
@@ -1343,14 +927,10 @@ https://storage.sardius.media/archives/-KyMV-J0vDqnClcSXs8p/events/site_1a4721d3
 https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Sada-E-Haq TV
 https://live.relentlessinnovations.net:1936/sadaehaq/sadaehaq/playlist.m3u8
-#EXTINF:-1 group-title="Religious",TBN Asia
-http://210.210.155.37/qwr9ew/s/s39/index.m3u8
 #EXTINF:-1 group-title="Religious",TBN East
 https://d7ge95bb03xsu.cloudfront.net/out/v1/0c95a89614194912834019fc37d741ef/tbn-freecast.m3u8
 #EXTINF:-1 group-title="Religious",The Now Network
 https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
-#EXTINF:-1 group-title="Science",NASA TV
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="Science",Pluto TV Ciencia
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 group-title="Science",Pluto TV Science
@@ -1377,8 +957,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e2bceca5b4b2c0
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5efbd29e4aa26700076c0d06&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=355&terminate=false&userId=
 #EXTINF:-1 group-title="Series",Cold Case Files
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c37d6712de254456f7ec340/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c37d6712de254456f7ec340&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=373&terminate=false&userId=
-#EXTINF:-1 group-title="Series",Cops
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e1f7e089f23700009d66303&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=367&terminate=false&userId=
 #EXTINF:-1 group-title="Series",Deal or No Deal
 https://dai.google.com/linear/hls/event/9cq79TtPR6WbyaQGeDlHjA/master.m3u8
 #EXTINF:-1 group-title="Series",Degrassi
@@ -1429,7 +1007,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dbc2d1ce10f0b0009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 group-title="Series",Pluto TV Las reglas del juego
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acb4eebe0f0000767b40f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Series",Pluto TV Le miracle de l\'amour
+#EXTINF:-1 group-title="Series",Pluto TV Le miracle de l'amour
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60549c238c3f21000753d3e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8b56e1-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=af1cb1d2-a877-4020-81af-3f89e475eb94
 #EXTINF:-1 group-title="Series",Pluto TV Les Cordier
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed80fa09f120007c8daa5/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
@@ -1521,7 +1099,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5aea40b35126c21571
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e825550e758c700077b0aef/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e825550e758c700077b0aef&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=529&terminate=false&userId=
 #EXTINF:-1 group-title="Series",This Old House
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d51e791b7dba3b2ae990ab2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=618&terminate=false&userId=
-#EXTINF:-1 group-title="Series",Three\'s Company
+#EXTINF:-1 group-title="Series",Three's Company
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef3977e5d773400077de284/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ef3977e5d773400077de284&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=508&terminate=false&userId=
 #EXTINF:-1 group-title="Series",Tiny House Nation
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/601a0342dcf4370007566891/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -1529,7 +1107,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/601a0342d
 https://amg00163-shoutfactory-tokushoutsu-dmr-c1irg.amagi.tv/playlist/amg00163-shoutfactory-tokushoutsu-dmr/playlist.m3u8
 #EXTINF:-1 group-title="Series",Unsolved Mysteries
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e96a0423e067bd6df6901&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=379&terminate=false&userId=
-#EXTINF:-1 group-title="Series",Wild \'N Out
+#EXTINF:-1 group-title="Series",Wild 'N Out
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d48678d34ceb37d3c458a55&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=480&terminate=false&userId=
 #EXTINF:-1 group-title="Shop",QVC3
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
@@ -1591,22 +1169,16 @@ https://dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 #EXTINF:-1 group-title="XXX",Playboy TV Latin America HD
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 group-title="台湾,#genre#",Good 2
+#EXTINF:-1 group-title="台湾",Good 2
 https://live.streamingfast.net/osmflivech2.m3u8
-#EXTINF:-1 group-title="台湾,#genre#",Beautiful Life TV
+#EXTINF:-1 group-title="台湾",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 group-title="台湾,#genre#",Good TV
+#EXTINF:-1 group-title="台湾",Good TV
 https://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 group-title="台湾,#genre#",SET Metro
-http://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042191~exp=9007200918783182~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=957e95920f87270a35afde9e5bd3d25c96af4c19596f0f2cc44ff968b89165c1
-#EXTINF:-1 group-title="台湾,#genre#",SET Taiwan
-http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042391~exp=9007200918783382~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=29538a1877a3c3728afe61bcd55b5a7b98f517bb3e2c75f8433b9338fda5b3e3
-#EXTINF:-1 group-title="台湾,#genre#",Supreme Master TV
+#EXTINF:-1 group-title="台湾",Supreme Master TV
 https://lbs-us1.suprememastertv.com/720p.m3u8
-#EXTINF:-1 group-title="台湾,#genre#",TVBS-Asia
+#EXTINF:-1 group-title="台湾",TVBS-Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",Genius Go Go Go
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 #EXTINF:-1 group-title="General",DaAi 1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 group-title="General",DaAi 2
@@ -1705,43 +1277,43 @@ http://31.148.48.15/O-la-la/index.m3u8
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="http://adultiptv.net/videos.m3u8",Visit-X TV (720p)
 https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1 group-title="http://adultiptv.net/videos.m3u8",东热01
+#EXTINF:-1 group-title="http://adultiptv.net/videos.m3u8",01
 https://video1.rhsj520.com/nyrm3/2011225/DR/n0011/index.m3u8
-#EXTINF:-1 group-title="http://adultiptv.net/videos.m3u8",东热02
+#EXTINF:-1 group-title="http://adultiptv.net/videos.m3u8",02
 https://video1.rhsj520.com/nyrm3/2011225/DR/n0010/index.m3u8
-#EXTINF:-1 group-title="http://adultiptv.net/videos.m3u8",东热03
+#EXTINF:-1 group-title="http://adultiptv.net/videos.m3u8",03
 https://video1.rhsj520.com/nyrm3/2011225/DR/n0008/index.m3u8
-#EXTINF:-1 group-title="http://adultiptv.net/videos.m3u8",东热04
+#EXTINF:-1 group-title="http://adultiptv.net/videos.m3u8",04
 https://video1.rhsj520.com/nyrm3/2011225/DR/n0001/index.m3u8
-#EXTINF:-1 group-title="http://adultiptv.net/videos.m3u8",一本03
+#EXTINF:-1 group-title="http://adultiptv.net/videos.m3u8",03
 http://live.redtraffic.xyz:80/bigass.m3u8
-#EXTINF:-1 group-title="http://adultiptv.net/videos.m3u8",二本04
+#EXTINF:-1 group-title="http://adultiptv.net/videos.m3u8",04
 http://live.redtraffic.xyz:80/blowjob.m3u8
-#EXTINF:-1 group-title="http://adultiptv.net/videos.m3u8",欧美01
+#EXTINF:-1 group-title="http://adultiptv.net/videos.m3u8",01
 http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
-#EXTINF:-1 group-title="http://adultiptv.net/videos.m3u8",欧美02
+#EXTINF:-1 group-title="http://adultiptv.net/videos.m3u8",02
 http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
-#EXTINF:-1 group-title="http://adultiptv.net/videos.m3u8",松视1
+#EXTINF:-1 group-title="http://adultiptv.net/videos.m3u8",1
 http://live.redtraffic.xyz:80/fetish.m3u8
-#EXTINF:-1 group-title="http://adultiptv.net/videos.m3u8",松视2
+#EXTINF:-1 group-title="http://adultiptv.net/videos.m3u8",2
 http://live.redtraffic.xyz:80/bigdick.m3u8
-#EXTINF:-1 group-title="http://adultiptv.net/videos.m3u8",玩美台
+#EXTINF:-1 group-title="http://adultiptv.net/videos.m3u8",3
 http://live.redtraffic.xyz:80/pov.m3u8
-#EXTINF:-1 group-title="http://adultiptv.net/videos.m3u8",限制级
+#EXTINF:-1 group-title="http://adultiptv.net/videos.m3u8",4
 http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
-#EXTINF:-1 group-title="General",ABN
+#EXTINF:-1 group-title="韩国",ABN
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 group-title="General",Arirang Radio
+#EXTINF:-1 group-title="韩国",Arirang Radio
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="General",HLQS-DTV
+#EXTINF:-1 group-title="韩国",HLQS-DTV
 https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="General",KBS World
+#EXTINF:-1 group-title="韩国",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 group-title="General",Korea Economy TV
+#EXTINF:-1 group-title="韩国",Korea Economy TV
 https://ythls.armelin.one/channel/UCF8AeLlUbEpKju6v1H6p8Eg.m3u8
-#EXTINF:-1 group-title="General",TBS eFM
+#EXTINF:-1 group-title="韩国",TBS eFM
 https://ythls.armelin.one/channel/UCHjDAeTbO4fQilomLD-kaXg.m3u8
-#EXTINF:-1 group-title="General",Tomato TV
+#EXTINF:-1 group-title="韩国",Tomato TV
 https://ythls.armelin.one/channel/UCgJ5pT6S2NuTVP-6-AlLZew.m3u8
 #EXTINF:-1 group-title="General;News",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -1787,14 +1359,8 @@ https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720
 https://live.shoppingntmall.com/live/10011.m3u8
 #EXTINF:-1 group-title="Shop",W Shopping
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
-#EXTINF:-1 group-title="Education",EBS English
-https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="Education",EBS Plus 2
-https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="Education",YTN2
 https://ythls.armelin.one/channel/UCDww6ExpwQS0TzmREIOo40Q.m3u8
-#EXTINF:-1 group-title="Kids",EBS Kids
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="Legislative",KTV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 group-title="Business",Maeil Business TV
@@ -1803,41 +1369,35 @@ https://ythls.armelin.one/channel/UCnfwIKyFYRuqZzzKBDt6JOA.m3u8
 https://ythls.armelin.one/channel/UC6UEuBvk-0rmV4FUu0LDiTw.m3u8
 #EXTINF:-1 group-title="Science",YTN Science
 https://ythls.armelin.one/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
-#EXTINF:-1 group-title="4K&8K,#genre#",Unknown_2
+#EXTINF:-1 group-title="4K&8K",Unknown_2
 http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-#EXTINF:-1 group-title="4K&8K,#genre#",Unknown_6
+#EXTINF:-1 group-title="4K&8K",Unknown_6
 http://159.75.85.63:8654/xx8k50fps.php
-#EXTINF:-1 group-title="4K&8K,#genre#",Unknown_8
+#EXTINF:-1 group-title="4K&8K",Unknown_8
 http://159.75.85.63:5680/d/ad/playad.m3u8
-#EXTINF:-1 group-title="4K&8K,#genre#",Unknown_10
-http://61.51.141.145:8888/rtp/239.3.1.249:8001
-#EXTINF:-1 group-title="4K&8K,#genre#",Unknown_11
+#EXTINF:-1 group-title="4K&8K",Unknown_11
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
-#EXTINF:-1 group-title="影院,#genre#",Unknown_1
+#EXTINF:-1 group-title="影院",Unknown_1
 https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
-#EXTINF:-1 group-title="影院,#genre#",Unknown_2
+#EXTINF:-1 group-title="影院",Unknown_2
 https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
-#EXTINF:-1 group-title="影院,#genre#",Unknown_3
+#EXTINF:-1 group-title="影院",Unknown_3
 http://maomao.kandiantv.cn/douyu1.php?id=4246519
-#EXTINF:-1 group-title="影院,#genre#",Unknown_4
+#EXTINF:-1 group-title="影院",Unknown_4
 https://pull.kktv8.com/livekktv/128600025.flv
-#EXTINF:-1 group-title="影院,#genre#",Unknown_5
+#EXTINF:-1 group-title="影院",Unknown_5
 http://pull.kktv8.com/livekktv/128600025.flv
-#EXTINF:-1 group-title="影院,#genre#",Unknown_6
+#EXTINF:-1 group-title="影院",Unknown_6
 http://maomao.kandiantv.cn/douyu1.php?id=6140589
-#EXTINF:-1 group-title="影院,#genre#",Unknown_8
+#EXTINF:-1 group-title="影院",Unknown_8
 http://182.38.178.100:4000/udp/239.21.1.123:5002
-#EXTINF:-1 group-title="影院,#genre#",Unknown_11
-http://php.jdshipin.com:8880/bst.php?id=hyyy
-#EXTINF:-1 group-title="影院,#genre#",Unknown_15
-http://114.241.174.185:8888/rtp/239.3.1.92:4120
-#EXTINF:-1 group-title="影院,#genre#",Unknown_17
+#EXTINF:-1 group-title="影院",Unknown_17
 http://maomao.kandiantv.cn/douyu1.php?id=747764
-#EXTINF:-1 group-title="影院,#genre#",Unknown_18
+#EXTINF:-1 group-title="影院",Unknown_18
 https://pull.kktv8.com/livekktv/99592190.flv
-#EXTINF:-1 group-title="影院,#genre#",Unknown_19
+#EXTINF:-1 group-title="影院",Unknown_19
 https://pull.kktv8.com/livekktv/99592190.flv
-#EXTINF:-1 group-title="影院,#genre#",Unknown_20
+#EXTINF:-1 group-title="影院",Unknown_20
 http://60.164.229.241:4040/udp/239.255.30.194:8231
-#EXTINF:-1 group-title="影院,#genre#",Unknown_24
+#EXTINF:-1 group-title="影院",Unknown_24
 http://www.51romzj.love:35455/huya/21059574
