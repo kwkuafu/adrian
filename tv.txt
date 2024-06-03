@@ -775,3 +775,6 @@ Unknown_17,http://maomao.kandiantv.cn/douyu1.php?id=747764
 Unknown_18,https://pull.kktv8.com/livekktv/99592190.flv
 Unknown_19,https://pull.kktv8.com/livekktv/99592190.flv
 Unknown_24,http://www.51romzj.love:35455/huya/21059574
+特辑电影院,https://epg.112114.xyz/douyu/3637778
+云上电影院,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100180869/150/index.m3u8?&encrypt=
+避风港电影院,http://diyp.112114.xyz/douyu/9826611
