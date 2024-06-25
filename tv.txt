@@ -87,24 +87,18 @@ TV Shizuoka,https://ythls.armelin.one/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
 Alan Becker TV,https://ythls.armelin.one/channel/UCbKWv2x9t6u8yZoB3KcPtnw.m3u8
 3ABN Kids,https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 Auto
-Choppertown,https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
 Business
 30A Investment Pitch,https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 Ameritrade,https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 TD Ameritrade Network,https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
 Yahoo! Finance,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 Classic
-Chicken Soup for the Soul,https://dai.google.com/linear/hls/event/2C5P0JGUSj65s8KpeyIDcQ/master.m3u8
 Classic Arts Showcase,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-STIRR Classic TV,https://dai.google.com/linear/hls/event/8JiQCLfVQw6d7uCYt0qDJg/master.m3u8
-The Archive,https://dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8
-The Tim Conway Show,https://dai.google.com/linear/hls/event/v51OvZmXQOizl-KOgpXw1Q/master.m3u8
 Comedy
 Mystery Science Theater 3000,https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8
 AFV,https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 AFV Espanol,https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 Comedy Dynamics,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-cineverse/playlist.m3u8
-FailArmy,https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 Funny or Die,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8
 Humor Mill,https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
 Just for Laughs Gags,https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8
@@ -146,21 +140,15 @@ W14DK-D3,https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 W14DK-D7,https://2-fss-2.streamhoster.com/pl_118/amlst:204972-3078008/playlist.m3u8
 Bounce XL,https://d37v4ie0vq884e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ujoygpbfraxho/bounce_xl.m3u8
 Comet,https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-ET Live,https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
-Electric Now,https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
 Estrella TV,https://estrellatv-glewed.amagi.tv/playlist.m3u8
 Heartland Web Feed,https://d76toswjmqqzm.cloudfront.net/playlist.m3u8
 Hi-YAH!,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
 It's Showtime at the Apollo,https://dai.google.com/linear/hls/event/fAFfTnCAT2K8d83sYsA-cw/master.m3u8
 NBCLX,https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 People Are Awesome,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8
-Popstar! TV,https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
-STIRR P.D.,https://dai.google.com/linear/hls/event/dKG_ZFd_S82FPgNxHmhdJw/master.m3u8
-STIRR Reality TV,https://dai.google.com/linear/hls/event/r9VoxPU7TYmpydEn2ZR0jA/master.m3u8
 TMZ,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/playlist.m3u8
 TeleMIX,https://haititivi.com/haiti/telemix1/index.m3u8
 Timeline,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
-Wipeout Xtra,https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8
 Xplore TV,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 Entertainment;Family
 Estrella Games,https://estrella-games-oando.amagi.tv/playlist.m3u8
@@ -225,14 +213,10 @@ Access Sarasota,https://ythls.armelin.one/channel/UCqHDwKPPOhzLmtb4TvwIZZQ.m3u8
 Collier TV,https://reflect-collier-countyboc.cablecast.tv/live-4/live/live.m3u8
 Lifestyle
 Revry 2,https://785e3b6ff91d4c6db1d8a5b67a894571.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-5-REVRY-BRIGHTCOVE/mt/brightcove/5/hls/master/playlist.m3u8
-CineLife,https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 Complex,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8
 EVRGRN,https://dai.google.com/linear/hls/event/TDUiZE57Q3-CS7Its4kLDQ/master.m3u8
 GQ,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8
 Glamour,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8
-LIVExLIVE,https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
-
-Revry,https://dai.google.com/linear/hls/event/gvO6-Y6TTjCxRf1QALU4VQ/master.m3u8
 Revry News,https://735d81460ce14f66bb1b9ebdaebd61ea.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-44-REVRYNOW-BRIGHTCOVE/mt/brightcove/44/hls/master/playlist.m3u8
 Revry Queer,https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
 So... Real,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8
@@ -265,10 +249,6 @@ Alhurra Iraq,https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Ira
 America's Voice,https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 Black News Channel,https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
 CBS News Baltimore,https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-CBS News Bay Area,https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
-CBS News Minnesota,https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
-CBS News New York,http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
-CBS News Philly,https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
 DNews,https://ythls.armelin.one/channel/UC4dWvSKVWJ36tJyhjDQCCaQ.m3u8
 Estrella News,https://estrella-news-oando.amagi.tv/playlist.m3u8
 Fox News Channel,http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
@@ -280,19 +260,15 @@ Newsmax TV,https://dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/playli
 Newsy,https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 TAG TV,https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 Tempo Afric TV,https://streamspace.live/hls/tempoafrictv/livestream.m3u8
-The First TV,https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
 The Wall Street Journal Live,https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
 The Young Turks,https://tyt-samsungus.amagi.tv/playlist.m3u8
 Top Stories by Newsy,https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
 UN Web TV,https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-USA TODAY,https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
 VoA Persian,https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 Outdoor
 30A Darcizzle Offshore,https://30a-tv.com/darcizzle.m3u8
-Mobcrush,https://dai.google.com/linear/hls/event/LGDVXxxyT8SxrL4-ZodxKw/master.m3u8
 Outdoor America,https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8
 Outdoor Channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-Outside TV,https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
 Outside TV+,https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
 The Boat Show,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
 Waypoint TV,https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
@@ -500,4 +476,3 @@ CGTN,http://125.92.141.108:4022/udp/239.77.0.199:5146
 美国之音,http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
 美国之音,http://www.336699.live:1935/blockfour/litv-ftv03.stream/playlist.m3u8
 美国之音,https://histar.zapi.us.kg/?id=voa
-美国之音,https://fake-stream.livednow.com/4gtv/litv-ftv03?token=4338e29534b95659f94b7a6817dab525&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
