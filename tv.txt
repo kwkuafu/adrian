@@ -165,7 +165,6 @@ Beach TV CSULB,http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/pla
 Bloomberg Quicktake,https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake-1/playlist.m3u8
 City of Loveland TV,https://reflect-cityofloveland-co.cablecast.tv/live-3/live/live.m3u8
 FPTV,https://ythls.armelin.one/channel/UCT3Dk_ZPcoR7CeHM_Wwb3QA.m3u8
-Glewed TV,https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
 KCAT,https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8
 MBC Masr USA,https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index.m3u8
 MCTV,https://603591da64140.streamlock.net/live/mp4:MCTVtest_aac/playlist.m3u8
@@ -203,11 +202,9 @@ Collier TV,https://reflect-collier-countyboc.cablecast.tv/live-4/live/live.m3u8
 Lifestyle
 Revry 2,https://785e3b6ff91d4c6db1d8a5b67a894571.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-5-REVRY-BRIGHTCOVE/mt/brightcove/5/hls/master/playlist.m3u8
 Complex,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8
-EVRGRN,https://dai.google.com/linear/hls/event/TDUiZE57Q3-CS7Its4kLDQ/master.m3u8
 GQ,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8
 Glamour,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8
 Revry News,https://735d81460ce14f66bb1b9ebdaebd61ea.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-44-REVRYNOW-BRIGHTCOVE/mt/brightcove/44/hls/master/playlist.m3u8
-Revry Queer,https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
 So... Real,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8
 The Design Network,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8
 Vanity Fair,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8
@@ -253,7 +250,6 @@ Outdoor America,https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5
 Outdoor Channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 Outside TV+,https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
 The Boat Show,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
-Waypoint TV,https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
 Religious
 KSCE-DT1,https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
 KSCE-DT2,https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
@@ -424,6 +420,28 @@ Unknown_17,http://maomao.kandiantv.cn/douyu1.php?id=747764
 Unknown_18,https://pull.kktv8.com/livekktv/99592190.flv
 Unknown_1,http://epg.112114.xyz/douyu/4246519
 Unknown_4,http://epg.112114.xyz/douyu/3637778
+电影,http://pull.kktv8.com/livekktv/99350550.flv
+电影,http://37.27.111.214:8080/live/11/hls.m3u8
+电影,http://117.177.180.53:8888/rtp/239.11.0.191:5140
+电影,https://pull.kktv8.com/livekktv/99592190.flv
+电影,http://221.217.23.164:4022/rtp/239.3.1.250:8001
+电影,http://webmail.axxe.top:4022/rtp/239.3.1.250:8001
+电影,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.250:8001
+电影,http://58.248.112.230:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBdDMxs6M4VqBOY3wzfYh5Zn70IXSXFRQUc4GqtZY1Coe&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142154017&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9e73ad37b261&FvSeid=88fe5578aef0e784&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18133&Fsv_chan_hls_se_idx=57&Fsv_TBt=8464824&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-6-CQ&Fsv_CMSID=GD_CUCC
+电影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
+电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8578/.m3u8
+电影,http://39.135.133.167:80/wh7f454c46tw3123557892_1888684188/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+电影,http://61.221.215.25:8800/hls/43/index.m3u8
+电影,http://39.134.65.3:80/wh7f454c46tw995071704_-1873696206/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+电影,http://37.27.111.214:8080/live/19/hls.m3u8
+电影,http://php.jdshipin.com:8880/iptv.php?id=hndy
+电影,https://epg.pw/stream/a3bc84227079241a67196b79f3d90384036fe9fe731c31c17ec59c278e1aeeb5.m3u8
+电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8579/.m3u8
+电影,http://iptv.8t.cx:8180/rtp/239.3.1.195:9024
+电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000003000012426/1.m3u8
+电影,http://cdn9.1678520.xyz/xsj2.1.php?id=ebc-movie
+电影,http://180.142.178.242:8138/udp/239.81.0.84:4056
 
 音乐,#genre#
 怀旧音乐,http://vodcdn.video.taobao.com/oss/ali-video/84722d96b62883dafdcc154afbf0bb03/video.m3u8
@@ -440,5 +458,4 @@ ELTV,https://histar.zapi.us.kg/?id=eltv
 ABC,https://histar.zapi.us.kg/?id=liveabc
 启蒙,http://hlsbkmgsplive.miguvideo.com/migu/gunbo/5102440001/51/20190827/index.m3u8?&encrypt=0
 可选,http://45.159.74.14:80/AnimalPlanet/index.m3u8
-美国之音,http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
-美国之音,https://histar.zapi.us.kg/?id=voa
+美国之音,http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8  
