@@ -1,5 +1,5 @@
 央视频道,#genre#
-CCTV1,http://23.237.196.98:680/live/CCTV1HD/hls.m3u8
+CCTV1,http://xyt.186738613.xyz/lngd.php?id=488&Cf.m3u8
 CCTV2,http://222.241.154.37:9901/tsfile/live/23002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://222.241.154.37:9901/tsfile/live/23003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://222.241.154.37:9901/tsfile/live/23004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -33,13 +33,6 @@ TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 港台RTHK33HD,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 港台RTHK34HD,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
-NBC News Now,https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
-The Guardian,https://i.mjh.nz/SamsungTVPlus/GBAJ2400003DD.m3u8
-MHz Now,https://i.mjh.nz/SamsungTVPlus/USAJ22000130U.m3u8
-fubo Sports Network,https://i.mjh.nz/SamsungTVPlus/USAJ2200023Z0.m3u8
-Hungry,https://i.mjh.nz/SamsungTVPlus/USAJ2200009C2.m3u8
-Estrella News,https://i.mjh.nz/SamsungTVPlus/USAJ2200020N4.m3u8
-Sony Canal Comedias,https://i.mjh.nz/SamsungTVPlus/USAJ22000057N.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 台湾频道,#genre#
@@ -96,7 +89,6 @@ Classic
 Classic Arts Showcase,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 Comedy
 Mystery Science Theater 3000,https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8
-AFV,https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 AFV Espanol,https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 Comedy Dynamics,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-cineverse/playlist.m3u8
 Funny or Die,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8
@@ -119,8 +111,6 @@ Culture;Entertainment;Music
 Panarmenian TV,https://us1.ottstream.live:17071/C279/index.m3u8?token=123TREWQ456
 Documentary
 AXS TV NOW,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-Law & Crime,https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
-MagellanTV,https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
 Voyager Documentaries,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
 Education
 WKMJ-DT1,https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
@@ -181,7 +171,6 @@ MBC Masr USA,https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e047
 MCTV,https://603591da64140.streamlock.net/live/mp4:MCTVtest_aac/playlist.m3u8
 NTD TV West,https://ntd02.akamaized.net/NTD-West/index.m3u8
 Now This,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8
-PADNET,https://reflect-padnet-live.cablecast.tv/live/live.m3u8
 SET TV,https://5dcab9aed5331.streamlock.net/SET1/livestream/playlist.m3u8
 TBCN,https://reflect-tampa-bay-community.cablecast.tv/live-16/live/live.m3u8
 WHOH-TV,https://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
@@ -224,20 +213,13 @@ The Design Network,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesig
 Vanity Fair,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8
 Vogue,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
 Movies
-Gravitas Movies,https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
-Maverick Black Cinema,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
 MovieSphere,https://moviesphere-plex.amagi.tv/playlist.m3u8
 Redbox Spotlight,https://spotlight-redbox.amagi.tv/playlist.m3u8
-Redbox Unsolved Mysteries,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
-STIRR Horror,https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
-STIRR Movies,https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
-STIRR Westerns,https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
 Sony Canal Novelas,https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 The Film Detective,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
 Wu Tang Collection,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
 Music
 California Music Channel,https://cmc-ono.amagi.tv/playlist.m3u8
-Classica,https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
 RJTV,http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8
 
 News
@@ -299,7 +281,6 @@ Potta-Divine TV USA,https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m
 Sada-E-Haq TV,https://live.relentlessinnovations.net:1936/sadaehaq/sadaehaq/playlist.m3u8
 TBN East,https://d7ge95bb03xsu.cloudfront.net/out/v1/0c95a89614194912834019fc37d741ef/tbn-freecast.m3u8
 Science
-La Rosa de Guadalupe,https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 QVC3,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
 Shop LC,https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
 Sports
@@ -307,8 +288,6 @@ W14DK-D5,https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
 Fubo Sports Network,https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
 Glory Kickboxing,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
 IMPACT Wrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-MAVTV,https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
-Sports TV Plus,https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 SportsGrid,https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
 Sportswire,https://dai.google.com/linear/hls/event/8R__yZf7SR6yMb-oTXgbEQ/master.m3u8
 Stadium,https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
@@ -356,7 +335,6 @@ GB News,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbn
 Outdoor
 Horse & Country TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8
 Religious
-Akaal Channel,https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
 Fadak TV,https://ythls.armelin.one/channel/UC2ZoBzeCXrZcMz4f82eMe-g.m3u8
 Shop
 Cruise1st TV,https://ythls.armelin.one/channel/UC9r76Tzp5HxeQG7SqZwV3OA.m3u8
@@ -377,10 +355,6 @@ MyCamTV Young (720p),http://live.mycamtv.com/young.m3u8
 O-la-la! (576p),http://31.148.48.15/O-la-la/index.m3u8
 Playboy TV Latin America (1080p),http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 Visit-X TV (720p),https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-01,https://video1.rhsj520.com/nyrm3/2011225/DR/n0011/index.m3u8
-02,https://video1.rhsj520.com/nyrm3/2011225/DR/n0010/index.m3u8
-03,https://video1.rhsj520.com/nyrm3/2011225/DR/n0008/index.m3u8
-04,https://video1.rhsj520.com/nyrm3/2011225/DR/n0001/index.m3u8
 03,http://live.redtraffic.xyz:80/bigass.m3u8
 04,http://live.redtraffic.xyz:80/blowjob.m3u8
 01,http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
@@ -438,7 +412,6 @@ YTN Science,https://ythls.armelin.one/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
 
 4K&8K,#genre#
 Unknown_2,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-Unknown_6,http://159.75.85.63:8654/xx8k50fps.php
 Unknown_8,http://159.75.85.63:5680/d/ad/playad.m3u8
 Unknown_11,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 
@@ -451,7 +424,6 @@ Unknown_17,http://maomao.kandiantv.cn/douyu1.php?id=747764
 Unknown_18,https://pull.kktv8.com/livekktv/99592190.flv
 Unknown_1,http://epg.112114.xyz/douyu/4246519
 Unknown_4,http://epg.112114.xyz/douyu/3637778
-Unknown_13,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8?ztianjd
 
 音乐,#genre#
 怀旧音乐,http://vodcdn.video.taobao.com/oss/ali-video/84722d96b62883dafdcc154afbf0bb03/video.m3u8
@@ -462,17 +434,11 @@ KYTV,http://live.kytv.co.kr:8080/hls/stream.m3u8
 经典,https://vdse.bdstatic.com//aa18d91f14915e1e79eacb046ac7747e.mp4
 70,http://epg.112114.xyz/douyu/3870925
 22,http://epg.112114.xyz/douyu/7537296
-现场2,http://125.34.185.54:10000/rtp/239.3.1.70:4120
 
 英语,#genre#
 ELTV,https://histar.zapi.us.kg/?id=eltv
 ABC,https://histar.zapi.us.kg/?id=liveabc
 启蒙,http://hlsbkmgsplive.miguvideo.com/migu/gunbo/5102440001/51/20190827/index.m3u8?&encrypt=0
-abc互动,http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
-CGTN,http://125.92.141.108:4022/udp/239.77.0.199:5146
-英语学习,https://ktpremium.com:443/M919HR/5577/900863?c=台湾
 可选,http://45.159.74.14:80/AnimalPlanet/index.m3u8
-美国之音,http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv03
 美国之音,http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
-美国之音,http://www.336699.live:1935/blockfour/litv-ftv03.stream/playlist.m3u8
 美国之音,https://histar.zapi.us.kg/?id=voa
